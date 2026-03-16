@@ -3,7 +3,7 @@
 > Turn studying into an adventure. Earn XP, unlock badges, compete on the leaderboard.
 
 ## 🌐 Live Demo
-[Click here to play →](https://sonuukumar281-ops.github.io/StudyQuest/)
+[Click here to play →]( https://sonuukumar281-ops.github.io/studyquest/)
 
 ## 🎮 Features
 - 📊 **Dashboard** — XP bar, streak tracker, accuracy stats
